@@ -39,7 +39,7 @@ describe "Config" do
 
   describe "http_client" do
     it "is Net::HTTP by default" do
-      subject.http_client.must_equal Net::HTTP
+      subject.http_client.must_equal Nobel::HTTP
     end
 
     it "can be changed" do

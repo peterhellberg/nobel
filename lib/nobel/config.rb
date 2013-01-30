@@ -9,7 +9,7 @@ module Nobel
       @api_host    = 'api.nobelprize.org'
       @api_version = 'v1'
       @json_parser = ->(d) { JSON.parse(d) }
-      @http_client = Net::HTTP
+      @http_client = Nobel::HTTP
       @debug       = false
 
       yield self if block_given?

@@ -1,7 +1,6 @@
 # encoding: utf-8
 
 require 'uri'
-require 'net/http'
 require 'json'
 
 module Nobel
@@ -25,7 +24,7 @@ module Nobel
     end
 
     def get_json(endpoint, params = {})
-      load_json get("#{endpoint}.json", params)
+      load_json get("#{endpoint}.json", params) || "{}"
     end
 
     def get(path, params = {})
