@@ -1,0 +1,86 @@
+{
+    "laureates": [
+        {
+            "id": "79",
+            "firstname": "Maria",
+            "surname": "Goeppert Mayer",
+            "born": "1906-06-28",
+            "died": "1972-02-20",
+            "bornCountry": "Germany (now Poland)",
+            "bornCountryCode": "PL",
+            "bornCity": "Kattowitz (now Katowice)",
+            "diedCountry": "USA",
+            "diedCountryCode": "US",
+            "diedCity": "San Diego, CA",
+            "gender": "female",
+            "prizes": [
+                {
+                    "year": "1963",
+                    "category": "physics",
+                    "share": "4",
+                    "motivation": "\"for their discoveries concerning nuclear shell structure\"",
+                    "affiliations": [
+                        {
+                            "name": "University of California",
+                            "city": "La Jolla, CA",
+                            "country": "USA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "453",
+            "firstname": "Christiane",
+            "surname": "Nüsslein-Volhard",
+            "born": "1942-10-20",
+            "died": "0000-00-00",
+            "bornCountry": "Germany",
+            "bornCountryCode": "DE",
+            "bornCity": "Magdeburg",
+            "gender": "female",
+            "prizes": [
+                {
+                    "year": "1995",
+                    "category": "medicine",
+                    "share": "3",
+                    "motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"",
+                    "affiliations": [
+                        {
+                            "name": "Max-Planck-Institut für Entwicklungsbiologie",
+                            "city": "Tübingen",
+                            "country": "Federal Republic of Germany"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "640",
+            "firstname": "Nelly",
+            "surname": "Sachs",
+            "born": "1891-12-10",
+            "died": "1970-05-12",
+            "bornCountry": "Germany",
+            "bornCountryCode": "DE",
+            "bornCity": "Berlin",
+            "diedCountry": "Sweden",
+            "diedCountryCode": "SE",
+            "diedCity": "Stockholm",
+            "gender": "female",
+            "prizes": [
+                {
+                    "year": "1966",
+                    "category": "literature",
+                    "share": "2",
+                    "motivation": "\"for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength\" ",
+                    "affiliations": [
+                        [
+
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}

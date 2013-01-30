@@ -1,0 +1,10 @@
+{
+  "countries":[
+    {"name":"Germany (now Russia)","code":"RU"},
+    {"name":"Tuscany (now Italy)","code":"IT"},
+    {"name":"Poland (now Lithuania)","code":"LT"},
+    {"name":"Madagascar","code":"MG"},
+    {"name":"Free City of Danzig (now Poland)","code":"PL"},
+    {"name":"Austrian Empire (now Czech Republic)","code":"CZ"}
+  ]
+}

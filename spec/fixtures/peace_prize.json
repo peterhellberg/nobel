@@ -1,0 +1,56 @@
+{
+    "prizes": [
+        {
+            "year": "2012",
+            "category": "peace",
+            "laureates": [
+                {
+                    "id": "881",
+                    "firstname": "European Union (EU)",
+                    "motivation": "&quot;for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe&quot;",
+                    "share": "1"
+                }
+            ]
+        },
+        {
+            "year": "2011",
+            "category": "peace",
+            "laureates": [
+                {
+                    "id": "869",
+                    "firstname": "Ellen",
+                    "surname": "Johnson Sirleaf",
+                    "motivation": "&quot;for their non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work&quot;",
+                    "share": "3"
+                },
+                {
+                    "id": "870",
+                    "firstname": "Leymah",
+                    "surname": "Gbowee",
+                    "motivation": "&quot;for their non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work&quot;",
+                    "share": "3"
+                },
+                {
+                    "id": "871",
+                    "firstname": "Tawakkol",
+                    "surname": "Karman",
+                    "motivation": "&quot;for their non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work&quot;",
+                    "share": "3"
+                }
+            ]
+        },
+        {
+            "year": "2010",
+            "category": "peace",
+            "laureates": [
+                {
+                    "id": "855",
+                    "firstname": "Liu",
+                    "surname": "Xiaobo",
+                    "motivation": "&quot;for his long and non-violent struggle for fundamental human rights in China&quot;",
+                    "share": "1"
+                }
+            ]
+        }
+    ]
+}
