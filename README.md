@@ -6,6 +6,8 @@ You can find out more on the official [Developer Zone](http://www.nobelprize.org
 
 There is also an API Console on [API HQ](http://console.apihq.com/nobel-prize-api)
 
+[![Build Status](https://travis-ci.org/peterhellberg/nobel.png?branch=master)](https://travis-ci.org/peterhellberg/nobel)
+
 ## Dependencies
 
 Nope.
