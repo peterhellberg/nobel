@@ -18,4 +18,7 @@ Gem::Specification.new do |gem|
   gem.files         = `git ls-files`.split($/)
   gem.test_files    = gem.files.grep(%r{^spec/})
   gem.require_paths = ["lib"]
+
+  gem.add_development_dependency "rake"
+  gem.add_development_dependency "minitest"
 end
